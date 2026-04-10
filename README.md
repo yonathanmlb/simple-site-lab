@@ -26,4 +26,7 @@ This project demonstrates a clean responsive layout using:
 - Git commits
 - Deploying static sites
 
+## Preview
+
+https://yonathanjaramillo.github.io/simple-site-lab/
 ---
